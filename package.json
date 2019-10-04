@@ -85,7 +85,7 @@
     "@adobe/helix-pipeline": "^4.1.0",
     "ajv": "^6.10.2",
     "fs-extra": "^8.0.0",
-    "snyk": "^1.217.0"
+    "snyk": "^1.230.7"
   },
   "snyk": true
 }
